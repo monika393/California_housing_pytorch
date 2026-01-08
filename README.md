@@ -128,7 +128,7 @@ The notebook generates the following plots:
 
 **Local Execution (Optional)**
 
+ ```bash
 pip install torch scikit-learn numpy pandas matplotlib
 jupyter notebook
-   ```bash
-   git clone https://github.com/your-username/optimizer-activation-regression.git
+  
